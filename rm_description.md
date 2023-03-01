@@ -1,0 +1,3 @@
+# rm_description
+rm\_description是一个存储了机器人描述文件的一个ROS软件包，主要使用了URDF文件以及xacro的语言格式。
+
